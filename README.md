@@ -33,12 +33,19 @@ debe ser evaluada por un dermatólogo.
 skin_cancer_detector/
 
 ├── data/          # Dataset (no incluido por tamaño)
+
 ├── models/        # Modelos entrenados (no incluido por tamaño)
+
 ├── src/
+
 │   ├── preprocess.py   # Transformaciones de imágenes
+
 │   ├── model.py        # Arquitectura del modelo (EfficientNet)
+
 │   ├── train.py        # Script de entrenamiento
+
 │   └── gradcam.py       # Visualización Grad-CAM
+
 └── main.py        # Aplicación principal (cámara/imagen)
 
 ## Estado del proyecto
