@@ -16,7 +16,7 @@ debe ser evaluada por un dermatólogo.
 - Visual Studio Code
 
 ## Dataset
-[HAM10000](https://www.kaggle.com/datasets/kmader/skin-lesion-analysis-toward-melanoma-detection)
+[HAM10000](https://api.isic-archive.com/collections/66/)
 — 10,015 imágenes dermatoscópicas clasificadas en 7 tipos de lesión.
 
 ## Clases detectadas
